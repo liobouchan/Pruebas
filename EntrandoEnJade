@@ -1,0 +1,14 @@
+Texto dentro de Tags
+  
+  h1 ---> Titulos
+
+Parrafos
+
+  p
+    |Asi se pone texto
+    |seguido al parecer
+
+  p.
+    De este modo se pueden poner 
+    multiples lineas de texto
+    sirve para bloques grandes.  
