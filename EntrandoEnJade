@@ -12,3 +12,18 @@ Parrafos
     De este modo se pueden poner 
     multiples lineas de texto
     sirve para bloques grandes.  
+
+Divs
+
+  Ingresar a div con id
+    div#container = <div id="container"> </div>
+
+  Para usar clases 
+    div.user-details = <div class="user-details"> </div>
+
+  Para meter muchas clases y un id
+    div#foo.bar.baz = <div id="foo" class="bar baz"> </div>
+
+  Poner divs por separado 
+    #foo
+    .bar    = <div id="foo"> </div> <div class="bar"> </div>     
