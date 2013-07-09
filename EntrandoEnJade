@@ -1,6 +1,6 @@
 Texto dentro de Tags
   
-  h1 ---> Titulos
+  h1 ---> Titulos Grecia te Amo
 
 Parrafos
 
@@ -27,3 +27,22 @@ Divs
   Poner divs por separado 
     #foo
     .bar    = <div id="foo"> </div> <div class="bar"> </div>     
+
+Comentarios
+  
+  Nos permite hacer bloques de comentarios 
+
+              body
+                //
+                  #content
+                    h1 Example
+
+  Y en si nos da como resultado lo siguiente
+              <body>
+                  <!--
+                  <div id="content">
+                    <h1>Example</h1>
+                  </div>
+                  -->
+              </body>
+
